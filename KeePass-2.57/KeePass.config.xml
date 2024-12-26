@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Meta>
+		<Version>2.57</Version>
+		<PreferUserConfiguration>false</PreferUserConfiguration>
+		<OmitItemsWithDefaultValues>true</OmitItemsWithDefaultValues>
+		<DpiFactorX>1.25</DpiFactorX>
+		<DpiFactorY>1.25</DpiFactorY>
+	</Meta>
+	<Application>
+		<LastUsedFile>
+			<Path>..\..\Documents\Database.kdbx</Path>
+			<CredProtMode>Obf</CredProtMode>
+			<CredSaveMode>NoSave</CredSaveMode>
+		</LastUsedFile>
+		<MostRecentlyUsed>
+			<MaxItemCount>12</MaxItemCount>
+			<Items>
+				<ConnectionInfo>
+					<Path>..\..\Documents\Database.kdbx</Path>
+					<CredProtMode>Obf</CredProtMode>
+					<CredSaveMode>NoSave</CredSaveMode>
+				</ConnectionInfo>
+			</Items>
+		</MostRecentlyUsed>
+		<WorkingDirectories>
+			<Item>Database@..\..\Documents</Item>
+		</WorkingDirectories>
+		<Start>
+			<CheckForUpdate>false</CheckForUpdate>
+			<CheckForUpdateConfigured>true</CheckForUpdateConfigured>
+		</Start>
+		<FileOpening />
+		<FileClosing />
+		<TriggerSystem>
+			<Triggers />
+		</TriggerSystem>
+		<PluginCompatibility>
+			<Item>@TvO4ZHkxnSUhtJDVbsFNDMFrtNlrDkFEAHb54IpweSk=@2.57.0.21656@1</Item>
+			<Item>@lvzA510+0fuH9M3Gfu8BocSD1p1nRu5wwUDVsKmxhis=@2.57.0.21656@1</Item>
+			<Item>@S+8SMy1b/JPj2Ql70BHGtb/bvHRqkE4arb4Ju4hEu10=@2.57.0.21656@1</Item>
+			<Item>@vtM0LZMxDece68ugD7JgaDpuWC6+pbkJvxUs1OjLjFw=@2.57.0.21656@1</Item>
+			<Item>@LPIHyYn86NIBWQENXxENTghdHf75nlZ8VzkGqcCsBU0=@2.57.0.21656@1</Item>
+			<Item>@nt7eCDkXzbru0k3aEIWY0nSdasA7MMD+tAWPkXu2xiU=@2.57.0.21656@1</Item>
+			<Item>@VrhI6f8bD6Jp08diziH1qXcGhuVzRC/UsGoHUVCNIVw=@2.57.0.21656@1</Item>
+			<Item>@5ooWIUDocwlBOftD5jWC0r/1pO6zkoEL4rNVKmG8Mx0=@2.57.0.21656@1</Item>
+			<Item>@NJGqEr/wqgltSWjzwu9iXzQwmziAPZRqkk+J/XsygbI=@2.57.0.21656@1</Item>
+			<Item>@1MZvAuplp51vv/oTSNEiFLB31Fw8PR8Nj+7eu/csa5c=@2.57.0.21656@1</Item>
+			<Item>@sCR/sb6r1hdAKtUE6KhCau+0o97TCFpGwmS6etnUmho=@2.57.0.21656@1</Item>
+			<Item>@n+/to5LMUsWHPz/qOOLg4LcFwAobVNmHGOqmLJKoSeg=@2.57.0.21656@1</Item>
+			<Item>@AZtI2pj9RcTF+U+p8aWXAMRA+DpxxyFgg218AOngZHc=@2.57.0.21656@1</Item>
+			<Item>@Bw2y3skOUbpbiOd43uErRt8EheVJW5S56fqyGUAtPL0=@2.57.0.21656@1</Item>
+			<Item>@mM2bhPSK7QmEzs+DLt3BC6BiYCUt4Q5EKGUfSkIs9K0=@2.57.0.21656@1</Item>
+			<Item>@bTbxPKUhcRk8gQaBv6DZVEvPv5hElfL+N6R1EYPgpNA=@2.57.0.21656@1</Item>
+			<Item>@T9G5QpB0DONFkY6g3f4A95aSrbUzOHcf3oT3tLf5ABQ=@2.57.0.21656@1</Item>
+			<Item>@p5lhLFAynHDcjtQYGTcudlTL+oeGHxBV2m6QSrY8MJg=@2.57.0.21656@1</Item>
+			<Item>@/AY4pkkLLa7A+Q3mvFPXDwURsXqm4rgtYjltlyBKhGs=@2.57.0.21656@1</Item>
+			<Item>@sTL62oxVNKSaCgRpgz5+jduxGmVblvSDyNQjgwbKErc=@2.57.0.21656@1</Item>
+			<Item>@SmFCcV2Tmh46FbBDvo9d5CzgQ7zK+jUnglXrYmeseu0=@2.57.0.21656@1</Item>
+			<Item>@0iY2cUwz8NUVbm4ekQhRzgBO+B+ZvYUnytPMYd/wnOo=@2.57.0.21656@1</Item>
+			<Item>@91aXdP5KhwAG5dipFXPuGTn567O2rYWIGJmjitR2Yc0=@2.57.0.21656@1</Item>
+			<Item>@tp9fQe5/qIOvJi7zwVULhTtQYou6+1m9MWQCu2/cR18=@2.57.0.21656@1</Item>
+			<Item>@QFPxLvuV1SQkoIZmOi34AudRjlwHoZsGGR4cuHVpDQo=@2.57.0.21656@1</Item>
+			<Item>@Ef0HQSFgSrv+g3wjwIVdCV0zoB0AwCQXxBm0spbn2ak=@2.57.0.21656@1</Item>
+			<Item>@gWjWWy+MDhtZeKNa4NTPFZ0WOTZ3hYO2d5D3LN3lM20=@2.57.0.21656@1</Item>
+			<Item>@sTVFhPkcm1TTt6hQv67wz5uh8v3yedh6RQ68wgc4yXQ=@2.57.0.21656@1</Item>
+			<Item>@oHirY20J6ru5JEpZ3+mqkxOURYX+SjuG5BbMYgdIyoA=@2.57.0.21656@1</Item>
+			<Item>@aCA1UpVOMETZu2z4DXYC/mrPiktb1KLqjavi+D3M+VQ=@2.57.0.21656@1</Item>
+			<Item>@JTJK8wq7Skgp0HNUG1iwl5kiV8/7wbuQQt3bCOiIoMw=@2.57.0.21656@1</Item>
+			<Item>@tfvR7zCtS9NV6vmd+wneKO9CHpKEFxaSxhISj2fB+qg=@2.57.0.21656@1</Item>
+			<Item>@RlVlGQZrG5ydBY9LGthQxSBwWFi75X7U4wQopJ5gTMw=@2.57.0.21656@1</Item>
+			<Item>@GEpE4jIqHp+8yAV5DrY63Na42C9eFNEG1Hfsrqy8jvI=@2.57.0.21656@1</Item>
+			<Item>@/X+bKZkyoNvRmSlrG3/d31ssp9nOo6QP0wApmKA7cdI=@2.57.0.21656@1</Item>
+			<Item>@O0hk7O68mFmNz3oUwON2+zzyphRcf9X5+d6yMK7Gohg=@2.57.0.21656@1</Item>
+			<Item>@+ftQD1+dPNgXSjZH4rqy5hrpiHcMuY5Hjph15HUVsq4=@2.57.0.21656@1</Item>
+			<Item>@O2vF7/0ILD1C63KjQMIPrCnZxfTEH0Tcj8SCsVjUF/I=@2.57.0.21656@1</Item>
+			<Item>@6S4YcZbPh0kwuyB1w83FWVpI0etjCFU6xaiYXb5VxrA=@2.57.0.21656@1</Item>
+		</PluginCompatibility>
+	</Application>
+	<Logging />
+	<MainWindow>
+		<X>514</X>
+		<Y>217</Y>
+		<Width>891</Width>
+		<Height>645</Height>
+		<SplitterHorizontalFrac>0.8333</SplitterHorizontalFrac>
+		<SplitterVerticalFrac>0.25</SplitterVerticalFrac>
+		<ToolBar />
+		<EntryView />
+		<TanView />
+		<EntryListColumnCollection>
+			<Column>
+				<Type>Title</Type>
+				<Width>121</Width>
+			</Column>
+			<Column>
+				<Type>UserName</Type>
+				<Width>121</Width>
+			</Column>
+			<Column>
+				<Type>Password</Type>
+				<Width>121</Width>
+				<HideWithAsterisks>true</HideWithAsterisks>
+			</Column>
+			<Column>
+				<Type>Url</Type>
+				<Width>121</Width>
+			</Column>
+			<Column>
+				<Type>Notes</Type>
+				<Width>121</Width>
+			</Column>
+		</EntryListColumnCollection>
+		<EntryListColumnDisplayOrder>0 1 2 3 4</EntryListColumnDisplayOrder>
+		<ListSorting>
+			<Column>0</Column>
+			<Order>Descending</Order>
+		</ListSorting>
+	</MainWindow>
+	<UI>
+		<TrayIcon />
+		<Hiding />
+		<StandardFont>
+			<Family>Microsoft Sans Serif</Family>
+			<Size>8.25</Size>
+			<GraphicsUnit>Point</GraphicsUnit>
+			<OverrideUIDefault>false</OverrideUIDefault>
+		</StandardFont>
+		<PasswordFont>
+			<Family>Courier New</Family>
+			<Size>8.25</Size>
+			<GraphicsUnit>Point</GraphicsUnit>
+			<OverrideUIDefault>false</OverrideUIDefault>
+		</PasswordFont>
+		<BannerStyle>Dark</BannerStyle>
+		<DataEditorFont>
+			<Family>Microsoft Sans Serif</Family>
+			<Size>8.25</Size>
+			<GraphicsUnit>Point</GraphicsUnit>
+			<OverrideUIDefault>false</OverrideUIDefault>
+		</DataEditorFont>
+		<UIFlags>0</UIFlags>
+		<KeyCreationFlags>0</KeyCreationFlags>
+		<KeyPromptFlags>0</KeyPromptFlags>
+	</UI>
+	<Security>
+		<WorkspaceLocking>
+			<LockAfterTime>0</LockAfterTime>
+			<LockAfterGlobalTime>0</LockAfterGlobalTime>
+		</WorkspaceLocking>
+		<Policy />
+		<MasterPassword>
+			<MinimumLength>0</MinimumLength>
+			<MinimumQuality>0</MinimumQuality>
+		</MasterPassword>
+	</Security>
+	<Native />
+	<PasswordGenerator>
+		<AutoGeneratedPasswordsProfile>
+			<GeneratorType>CharSet</GeneratorType>
+			<Length>20</Length>
+			<CharSetRanges>ULD_______</CharSetRanges>
+		</AutoGeneratedPasswordsProfile>
+		<UserProfiles />
+	</PasswordGenerator>
+	<Search>
+		<LastUsedProfile>
+			<SearchMode>Simple</SearchMode>
+			<ComparisonMode>InvariantCultureIgnoreCase</ComparisonMode>
+		</LastUsedProfile>
+		<UserProfiles />
+	</Search>
+	<Defaults>
+		<OptionsTabIndex>0</OptionsTabIndex>
+		<KeySources>
+			<Association>
+				<DatabasePath>..\..\Documents\Database.kdbx</DatabasePath>
+				<Password>true</Password>
+			</Association>
+		</KeySources>
+		<Duplication />
+		<Print>
+			<MainFont>
+				<Family>Microsoft Sans Serif</Family>
+				<Size>8.25</Size>
+				<GraphicsUnit>Point</GraphicsUnit>
+				<OverrideUIDefault>false</OverrideUIDefault>
+			</MainFont>
+			<PasswordFont>
+				<Family>Courier New</Family>
+				<Size>8.25</Size>
+				<GraphicsUnit>Point</GraphicsUnit>
+				<OverrideUIDefault>false</OverrideUIDefault>
+			</PasswordFont>
+		</Print>
+	</Defaults>
+	<Integration>
+		<UrlSchemeOverrides>
+			<BuiltInOverridesEnabled>0</BuiltInOverridesEnabled>
+			<CustomOverrides />
+		</UrlSchemeOverrides>
+		<AutoTypeAbortOnWindows />
+	</Integration>
+	<Custom />
+</Configuration>
